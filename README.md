@@ -1,3 +1,5 @@
+This is a sample code that is presented in the Quarkus Demo session. 
+The following topics are covered in this repo
 
 - RESTful API
     - GetAll Methods
@@ -31,4 +33,3 @@
         - /q/health/started - The application is started.
         - /q/health - Accumulating all health check procedures in the application.
     - Micor Meter: https://quarkus.io/guides/micrometer
-      - 
